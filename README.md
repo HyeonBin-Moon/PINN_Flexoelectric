@@ -1,4 +1,4 @@
-# Energy-Based PINN for Forward and Inverse Flexoelectric Problems
+# Energy-Based PINN for Flexoelectric Problems
 
 This repository provides the official implementation of the paper:
 

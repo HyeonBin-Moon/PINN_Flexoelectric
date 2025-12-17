@@ -14,6 +14,7 @@ https://doi.org/10.48550/arXiv.2506.21810
 This code implements an energy-based Physics-Informed Neural Network (PINN) framework
 for solving both **forward** and **inverse** problems in linear flexoelectricity.
 
+
 ---
 
 ## Overview
@@ -37,6 +38,7 @@ and solved as a **saddle-point optimization problem**.
 Finite element–based numerical quadrature is employed for stable and consistent
 evaluation of the energy functional, and **hard constraints** are used to enforce
 Dirichlet boundary conditions exactly.
+
 
 ---
 
@@ -63,6 +65,7 @@ numerical configurations investigated in the paper.
 Additional forward and inverse configurations discussed in the paper
 (e.g., the direct flexoelectric effect or cases with mixed-sign coefficients)
 can be implemented within the same framework with straightforward modifications.
+
 
 ---
 

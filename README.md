@@ -3,7 +3,8 @@
 This repository provides the official implementation of the paper:
 
 **Moon, Hyeonbin†; Park, Donggeun†; Yeo, Jinwook; Ryu, Seunghwa\***  
-*An Energy-Based Physics-Informed Neural Network Framework for Solving Forward and Inverse Flexoelectric Problems*
+*An Energy-Based Physics-Informed Neural Network Framework for Solving Forward and Inverse Flexoelectric Problems*  
+
 † These authors contributed equally to this work.  
 
 
@@ -64,8 +65,6 @@ Additional forward and inverse configurations discussed in the paper
 can be implemented within the same framework with straightforward modifications.
 
 ---
-
-## Repository Structure
 
 ## Repository Structure
 
